@@ -1,0 +1,8 @@
+prefix=/home/rob/RobitcsPathPlanning/MapBuilder/devel
+
+Name: grid_path_searcher
+Description: Description of grid_path_searcher
+Version: 0.0.1
+Cflags: -I/home/rob/RobitcsPathPlanning/MapBuilder/src/grid_path_searcher/include
+Libs: -L${prefix}/lib 
+Requires: 
