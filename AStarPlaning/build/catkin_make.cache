@@ -1,0 +1,2 @@
+grid_path_searcher:rviz_plugins:waypoint_generator
+-DCATKIN_DEVEL_PREFIX=/home/rob/RobitcsPathPlanning/AStarPlaning/devel -DCMAKE_INSTALL_PREFIX=/home/rob/RobitcsPathPlanning/AStarPlaning/install -G Unix Makefiles
