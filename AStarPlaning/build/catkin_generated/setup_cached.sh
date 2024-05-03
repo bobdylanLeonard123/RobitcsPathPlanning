@@ -7,6 +7,8 @@
 # new environment variables
 
 # modified environment variables
-export LD_LIBRARY_PATH='/opt/ros/noetic/lib'
+export CMAKE_PREFIX_PATH="/home/rob/RobitcsPathPlanning/AStarPlaning/devel:$CMAKE_PREFIX_PATH"
 export PKG_CONFIG_PATH='/opt/ros/noetic/lib/pkgconfig:/usr/local/lib/pkgconfig'
 export PWD='/home/rob/RobitcsPathPlanning/AStarPlaning/build'
+export ROSLISP_PACKAGE_DIRECTORIES='/home/rob/RobitcsPathPlanning/AStarPlaning/devel/share/common-lisp'
+export ROS_PACKAGE_PATH="/home/rob/RobitcsPathPlanning/AStarPlaning/src:$ROS_PACKAGE_PATH"
